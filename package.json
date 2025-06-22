@@ -1,0 +1,8 @@
+{
+  "name": "learning-journey-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "quartz dev",
+    "build": "quartz build"
+  }
+}
